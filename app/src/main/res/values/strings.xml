@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Demo9</string>
+    <string-array name="income_placeholder">
+        <item>jan_2000</item>
+        <item>feb_1000</item>
+        <item>mar_3000</item>
+        <item>apr_3000</item>
+        <item>may_3000</item>
+    </string-array>
+    <string-array name="versions">
+        <item>android 4.0.1</item>
+        <item>android 4.1, 4.2, 4.3</item>
+        <item>android 4.4</item>
+    </string-array>
+    <string-array name="codes">
+        <item>ice crem sandwitch</item>
+        <item>jelly bean</item>
+        <item>kit kat</item>
+    </string-array>
+</resources>
